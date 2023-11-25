@@ -39,7 +39,7 @@ def colorStyle():
 
     ''''''''''''''')
 
-    print(Fore.GREEN + '''    ......Scanning In Progress......''')
+    print(f'''{Fore.GREEN}    ......Scanning In Progress......''')
 
 
 if __name__ == "__main__":
