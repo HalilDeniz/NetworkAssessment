@@ -5,6 +5,11 @@ The Network Compromise Assessment Tool is designed to analyze pcap files to dete
 <img src="style/networkassessment.png">
 
 
+<h4 align="center">
+<br>
+   <a href="https://buymeacoffee.com/halildeniz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</h4>
+
 ## Features
 
 - **DNS Tunneling Detection**: Identifies potential covert communication channels over DNS.
